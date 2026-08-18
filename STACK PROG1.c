@@ -1,3 +1,5 @@
+//1] Write a program which performs following stack operations. ->push() -> pop() ->peep() -> update() 
+// Enrollment no 92500588016
 #include<stdio.h>
 #define MAX 3
 
