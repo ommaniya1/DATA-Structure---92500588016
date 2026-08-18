@@ -1,3 +1,6 @@
+//1] Write a program which performs following operations using simple queue.insert() -> delete() -> display() 
+// Enrollment no 92500588016
+
 #include<stdio.h>
 #define max 5
 
