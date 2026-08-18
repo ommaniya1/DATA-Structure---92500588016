@@ -1,4 +1,5 @@
 //2] Write a program to find out factorial of number using stack.
+// Enrollment no 92500588016 
 
 #include<stdio.h>
 #define max 30
